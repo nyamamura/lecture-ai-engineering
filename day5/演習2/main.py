@@ -11,6 +11,9 @@ import pickle
 import time
 import great_expectations as gx
 
+
+### added comment 
+
 class DataLoader:
     """データロードを行うクラス"""
 
